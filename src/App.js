@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast
+          React is a easy framework
         </a>
       </header>
     </div>
